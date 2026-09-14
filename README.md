@@ -71,15 +71,4 @@ mvn package
 java -jar target/microkernel-taller05.jar
 ```
 
-También puedes importar el proyecto directamente como proyecto Maven en
-IntelliJ IDEA, NetBeans, Eclipse o VS Code (con la extensión de Java).
 
-## Pendiente antes de entregar
-
-1. Crear el repositorio en GitHub, subir este proyecto y **pegar aquí el
-   enlace público**: `<PENDIENTE: enlace al repositorio GitHub>`
-2. Transcribir este resumen y las capturas/diagramas al formato oficial
-   `Formato-Documento.docx` (márgenes 3 cm / 2.5 cm, fuente Arial 12 pt,
-   interlineado 1.3, títulos Nivel 1/2/3 en 20/16/12 pt negrita).
-3. Empaquetar y subir la entrega como `lisw2_t5_gX.docx` o `lisw2_t5_gX.tar`
-   antes del **martes 15 de septiembre de 2026, 18:00**.
