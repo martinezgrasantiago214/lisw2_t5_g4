@@ -1,6 +1,9 @@
 # Taller 05 – Microkernel + Tuberías y Filtros
 Laboratorio de Ingeniería de Software II — Universidad del Cauca
-
+Integrantes:
+Camilo Ramirez
+Andres Florin
+Santiago Martinez
 ## Resumen del proyecto
 
 Este proyecto implementa el **Banco de Preguntas Saber PRO** usando una
