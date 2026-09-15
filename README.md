@@ -2,8 +2,8 @@
 Laboratorio de Ingeniería de Software II — Universidad del Cauca
 #
 Integrantes:
-Camilo Ramirez
-Andres Florin
+Camilo Ramirez,
+Andres Florin,
 Santiago Martinez
 
 ## Resumen del proyecto
